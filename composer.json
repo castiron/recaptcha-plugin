@@ -1,4 +1,7 @@
 {
+    "name": "multiwebinc/recaptcha-plugin",
+    "type": "october-plugin",
+    "description": "October CMS Plugin for adding reCAPTCHA to forms",
     "require": {
         "google/recaptcha": "^1.2"
     }
